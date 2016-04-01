@@ -3,8 +3,13 @@ This script watches a Slack channel and posts the most recent message to a scrol
 
 # Instructions
 1) Obtain Slack API Information (https://api.slack.com/)
+
 2) Obtain Twitter API Information (https://apps.twitter.com/)
+
 3) Edit "run.php" to include Slack Token and Channel
+
 4) Edit "twitter.php" to include API Tokens and Keys
+
 5) Modify "led.pl" near the bottom to customize LED colors and scrolling styles
+
 6) Execute "run.php" and enjoy!  Optionally set it up in a keep-alive Cron job (* * * * * ps aux |grep slack |grep -v "grep"; if [ $? -eq 1 ]; then php /home/pi/SlackAndTwitterToLED/run.php; fi")
