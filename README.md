@@ -13,3 +13,5 @@ This script watches a Slack channel and posts the most recent message to a scrol
 5) Modify "led.pl" near the bottom to customize LED colors and scrolling styles
 
 6) Execute "run.php" and enjoy!  Optionally set it up in a keep-alive Cron job (* * * * * ps aux |grep slack |grep -v "grep"; if [ $? -eq 1 ]; then php /home/pi/SlackAndTwitterToLED/run.php; fi")
+
+Big thanks to Abraham Williams for the twitteroauth scripts!
