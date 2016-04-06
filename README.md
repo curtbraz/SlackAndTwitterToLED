@@ -17,6 +17,4 @@ This script watches a Slack channel and posts the most recent message to a scrol
 
 Enjoy! :)
 
-<p align="center" width="200"><img src="https://cloud.githubusercontent.com/assets/17833760/14305777/ce7cead6-fb8d-11e5-8e8a-60e63d4ad45c.jpg"></p>
-
-<p align="center" width="200"><img src="https://cloud.githubusercontent.com/assets/17833760/14305773/c879a138-fb8d-11e5-9993-8a50bdd7cb1b.jpg"></p>
+<p align="center"><img width="400" align="center" src="https://cloud.githubusercontent.com/assets/17833760/14305777/ce7cead6-fb8d-11e5-8e8a-60e63d4ad45c.jpg"><img width="400" align="center" src="https://cloud.githubusercontent.com/assets/17833760/14305773/c879a138-fb8d-11e5-9993-8a50bdd7cb1b.jpg"></p>
